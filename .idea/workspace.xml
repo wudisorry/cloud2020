@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c5b6acb-8666-4bc0-ad36-f85023958268" name="Default Changelist" comment="" />
+    <list default="true" id="9c5b6acb-8666-4bc0-ad36-f85023958268" name="Default Changelist" comment="cl">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/arh/springcloud/entities/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/arh/springcloud/entities/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/arh/springcloud/OrderHystrixMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/arh/springcloud/controller/OrderHystrixController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/arh/springcloud/service/PaymentFallbackService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/arh/springcloud/service/PaymentHystrixService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/arh/springcloud/OrderFeignMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/arh/springcloud/config/FeignConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/arh/springcloud/controller/OrderFeignController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/arh/springcloud/service/PaymentFeignService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/arh/myrule/MySelfRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/arh/springcloud/OrderMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/arh/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/arh/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/arh/springcloud/EurekaMain7001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/arh/springcloud/EurekaMain7002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/arh/springcloud/PaymentHystrixMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/arh/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/arh/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/PaymentMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/config/InterceptorConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/interceptor/UrlLogInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/arh/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/PaymentMain8002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/config/InterceptorConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/interceptor/UrlLogInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/arh/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/classes/com/arh/springcloud/alibaba/NacosConfigClientMain3377.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/classes/com/arh/springcloud/alibaba/controller/ConfigClientController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-order83/target/classes/META-INF/cloudalibaba-consumer-order83.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-order83/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-order83/target/classes/com/arh/springcloud/alibaba/OrderNacosMain83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-order83/target/classes/com/arh/springcloud/alibaba/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-consumer-order83/target/classes/com/arh/springcloud/alibaba/controller/OrderNacosController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/com/arh/springcloud/alibaba/PaymentMain9001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/com/arh/springcloud/alibaba/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/target/classes/com/arh/springcloud/alibaba/PaymentMain9003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/target/classes/com/arh/springcloud/alibaba/controller/PaymentController.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -45,6 +109,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -52,7 +117,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42643678" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -272,6 +337,10 @@
       <workItem from="1617611595226" duration="93000" />
       <workItem from="1617611713995" duration="8908000" />
       <workItem from="1617673129247" duration="1299000" />
+      <workItem from="1618236493019" duration="3045000" />
+      <workItem from="1618240194861" duration="389000" />
+      <workItem from="1619349270891" duration="133000" />
+      <workItem from="1619441695611" duration="1294000" />
     </task>
     <servers />
   </component>
@@ -299,6 +368,10 @@
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
     <state x="2685" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1617091965877" />
+    <state x="386" y="113" key="CommitChangelistDialog2" timestamp="1619443270392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1619443270392" />
     <state width="1343" height="691" key="DebuggerActiveHint" timestamp="1616927724064">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
@@ -371,10 +444,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="182" key="Registry/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1616920588934" />
-    <state x="2003" y="173" width="1040" height="839" key="SettingsEditor" timestamp="1617611868927">
-      <screen x="1920" y="9" width="1920" height="1040" />
+    <state x="423" y="236" width="1040" height="839" key="SettingsEditor" timestamp="1618240234999">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="423" y="236" width="1091" height="750" key="SettingsEditor/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1616920333990" />
+    <state x="423" y="236" width="1091" height="750" key="SettingsEditor/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1618240234999" />
     <state x="2003" y="173" width="1040" height="839" key="SettingsEditor/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1617611868927" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617673138500">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -386,9 +459,10 @@
     </state>
     <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1617072885810" />
     <state x="2556" y="262" width="647" height="534" key="find.popup/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1617611777180" />
-    <state x="2362" y="391" key="new project wizard" timestamp="1617614245346">
-      <screen x="1920" y="9" width="1920" height="1040" />
+    <state x="373" y="240" key="new project wizard" timestamp="1618236779137">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="373" y="240" key="new project wizard/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1618236779137" />
     <state x="2362" y="391" key="new project wizard/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1617614245346" />
     <state x="2543" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1617084303533">
       <screen x="1920" y="9" width="1920" height="1040" />
