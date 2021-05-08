@@ -24,6 +24,7 @@
         <module>cloudalibaba-provider-payment9003</module>
         <module>cloudalibaba-consumer-order83</module>
         <module>cloudalibaba-config-nacos-client3377</module>
+        <module>test-swagger</module>
     </modules>
 
     <properties>
