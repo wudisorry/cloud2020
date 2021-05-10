@@ -16,3 +16,8 @@ ls -l /proc/进程id
 远程调试
 https://www.jianshu.com/p/302dc10217c0
 https://blog.csdn.net/qq_37192800/article/details/80761643
+
+rabbitMQ
+根据官网
+查看配置文件地址可以使用sbin下的命令rabbitmq-diagnostics status也可以在management UI点击node名字查看
+在看ttl还是死信队列时，官网都在说使用arguments或policies配置
