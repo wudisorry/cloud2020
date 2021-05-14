@@ -3,7 +3,6 @@ package com.arh.test.util;
 import com.arh.test.model.ResultData;
 
 /**
- * @author: chenli
  * @Date: 2021/5/7 17:22
  */
 public class ResultDataUtil {

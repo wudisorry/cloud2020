@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author: chenli
  * @Date: 2021/5/7 17:03
  */
 @RestController
